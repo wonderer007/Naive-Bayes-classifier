@@ -13,6 +13,10 @@ you can run project by either importing it in eclipse or using cmd/termianl in j
   <li> Import Project in eclipse ( <i>using Existing Project into Workspace option</i> )</li>
   <li> run Train.java (main class) to train you corpus using <i>corpus_root_path</i> as run time argument </li>
   <li> After running Train.java check out <i>Bernouli.out</i> and <i>Multinomail.out</i> files at corpus_root_path. these are model build by bernouli and multinomial calculations</li>
-  <li>Now run Test.java (main class ) to test any of your ham, spam or any type of file</li>
+  <li>Now run Test.java (main class ) with <i>corpus_root_path</i> and <i>path_of_file__you_want_to_classify as run time arguments</i>
+  </li>
+  <li>
+    Test.java will classify your file with results of both Bernouli and Multinomial
+  </li>
 
 </ul>
