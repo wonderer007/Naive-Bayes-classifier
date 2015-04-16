@@ -29,3 +29,8 @@ you can run project by either importing it in eclipse or using cmd/termianl in j
   <li>above command will classify your file with results of both Bernouli and Multinomial</li>
 
 </ul>
+
+<br/>
+<div>
+  <b> Note </b> I will try to push regular updates on algorithm, in case you don't understand anything please hit me out at alihaider907@gmail.com or tweet me @alihaider907 <b>Thank you</b>
+</div>
