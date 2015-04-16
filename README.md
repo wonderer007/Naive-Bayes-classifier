@@ -20,3 +20,12 @@ you can run project by either importing it in eclipse or using cmd/termianl in j
   </li>
 
 </ul>
+
+<h1> Using Command Line </h1>
+<small>command line option is easy </small>
+<ul>
+  <li>cd jars folder</li>
+  <li> run command <b> java -jar train1.jar path/of/corpus/folder</b></li>
+  <li> above command will create Bernouli and Multinomial models in corpus folder</li>
+  <li> run command <b> java -jar test.jar path/of/corpus/folder</b> &nbsp;&nbsp; path_of_file__you_want_to_classify</li>
+</ul>
