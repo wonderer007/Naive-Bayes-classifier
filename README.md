@@ -15,9 +15,7 @@ you can run project by either importing it in eclipse or using cmd/termianl in j
   <li> After running Train.java check out <i>Bernouli.out</i> and <i>Multinomail.out</i> files at corpus_root_path. these are model build by bernouli and multinomial calculations</li>
   <li>Now run Test.java (main class ) with <i>corpus_root_path</i> and <i>path_of_file__you_want_to_classify as run time arguments</i>
   </li>
-  <li>
-    Test.java will classify your file with results of both Bernouli and Multinomial
-  </li>
+  <li>Test.java will classify your file with results of both Bernouli and Multinomial</li>
 
 </ul>
 
@@ -28,4 +26,6 @@ you can run project by either importing it in eclipse or using cmd/termianl in j
   <li> run command <b> java -jar train1.jar path/of/corpus/folder</b></li>
   <li> above command will create Bernouli and Multinomial models in corpus folder</li>
   <li> run command <b> java -jar test.jar path/of/corpus/folder</b> &nbsp;&nbsp; path_of_file__you_want_to_classify</li>
+  <li>above command will classify your file with results of both Bernouli and Multinomial</li>
+
 </ul>
