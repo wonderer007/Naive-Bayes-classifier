@@ -4,4 +4,6 @@ Naive Bayes classifier is classification algorithm. It uses Naive based Bernoull
 <b>Project Structure</b><br/>
 <b>/jars </b>( executable jars if you don't want to run source code ) <br/><br/>
 <b>/src/main </b>( source code of Naive-Bayes-classifier ) <br/><br/>
-<b>/src/corpus </b> ( contains all data files trainining files and testing files) <br/><br/>
+<b>/src/corpus </b> ( contains all data files trainining files and testing files, list of stop words file) <br/><br/>
+
+you can run project by either importing it in eclipse or using cmd/termianl in java based environment <br/>
