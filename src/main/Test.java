@@ -47,11 +47,6 @@ public class Test {
         Mulitinomial(C, D);
         System.out.println("Document is belong to "+ D.getCategory());
         
-        
-
-        
-        
-       
     }
     
 
